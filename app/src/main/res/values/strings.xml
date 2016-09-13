@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TabExamSolo</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hour_str">시간</string>
+    <string name="min_str">분</string>
+    <string name="sec_str">초</string>
+
+</resources>
